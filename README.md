@@ -28,6 +28,8 @@ A OpenIM flutter demo, only support android and ios.
 
 ## Some Screenshots 🚀
 
+<img src="./screenshots/IMG_0137.PNG" width="425"/> <img src="./screenshots/IMG_0136.PNG" width="425"/> 
+
 ![OpenIM Flutter](./screenshots/IMG_0136.PNG) ![OpenIM Flutter](./screenshots/IMG_0137.PNG)
 
 ![OpenIM Flutter](./screenshots/IMG_0138.PNG)
