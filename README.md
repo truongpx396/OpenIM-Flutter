@@ -9,7 +9,7 @@
 <p>
   <a href="https://doc.rentsoft.cn/">OpenIM Docs</a>
   •
-  <a href="https://github.com/openimsdk/open-im-server">OpenIM Server</a>
+  <a href="https://github.com/truongpx396/Open-IM-Server">OpenIM Server</a>
   •
   <a href="https://github.com/openimsdk/openim-sdk-core">openim-sdk-core</a>
   •
