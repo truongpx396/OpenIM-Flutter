@@ -1,6 +1,0 @@
-framework module r_scan {
-  umbrella header "r_scan-umbrella.h"
-
-  export *
-  module * { export * }
-}
