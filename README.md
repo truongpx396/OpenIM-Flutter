@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# OpenIM Flutter Demo 💬💻
+# OpenIM Flutter 💬💻
 
 <p>
   <a href="https://doc.rentsoft.cn/">OpenIM Docs</a>
@@ -25,3 +25,21 @@ A OpenIM flutter demo, only support android and ios.
 
 - This is a [`Flutter`](https://flutter.dev/) project.
 - App is built with [open-im-sdk-flutter](https://github.com/openimsdk/open-im-sdk-flutter) library.
+
+## Some Screenshots 🚀
+
+![OpenIM Flutter](./screenshots/IMG_0136.PNG)
+
+![OpenIM Flutter](./screenshots/IMG_0137.PNG)
+
+![OpenIM Flutter](./screenshots/IMG_0138.PNG)
+
+![OpenIM Flutter](./screenshots/IMG_0139.PNG)
+
+![OpenIM Flutter](./screenshots/IMG_0140.PNG)
+
+![OpenIM Flutter](./screenshots/IMG_0141.PNG)
+
+![OpenIM Flutter](./screenshots/IMG_0142.PNG)
+
+![OpenIM Flutter](./screenshots/IMG_0143.PNG)
