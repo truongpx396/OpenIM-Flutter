@@ -1,0 +1,6 @@
+framework module app_installer {
+  umbrella header "app_installer-umbrella.h"
+
+  export *
+  module * { export * }
+}
