@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.openim.online">
         <img src="./openim-logo.gif" width="60%" height="30%"/>
     </a>
-</p>
+</p> -->
 
 # OpenIM Flutter 💬💻
 
